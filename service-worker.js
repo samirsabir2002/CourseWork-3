@@ -68,7 +68,6 @@ define(["./workbox-2083f33d"], function (e) {
           revision: "230d989d5ebd20c62abb7a05880ae3be"
         },
         { url: "index.html", revision: "82254b9861ba3ad4fc4d5546ee3b996b" },
-        { url: "js/app.066fc869.js", revision: null },
         { url: "js/chunk-vendors.5919bbb2.js", revision: null },
         { url: "manifest.json", revision: "5c036a10d257eff5750edd73e63dca13" },
         { url: "robots.txt", revision: "735ab4f94fbcd57074377afca324c813" }
