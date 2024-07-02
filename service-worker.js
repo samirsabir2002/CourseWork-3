@@ -35,7 +35,6 @@ define(["./workbox-2083f33d"], function (e) {
     }),
     e.precacheAndRoute(
       [
-        { url: "css/app.d9f1377f.css", revision: null },
         {
           url: "images/calculator.png",
           revision: "253300f4976e82429b44a4554f72b273"
