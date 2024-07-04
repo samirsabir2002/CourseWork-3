@@ -6,8 +6,6 @@ After School Course Work 3
 # PWA Vue.js SFC App GitHub Pages : https://samirsabir2002.github.io/CourseWork-3
 
 
-
-
 ## Project setup
 ```
 npm install
