@@ -1,7 +1,7 @@
 
 After School Course Work 3
 
-# [[https://samirsabir2002.github.io/CourseWork-3/](https://github.com/samirsabir2002/CourseWork-3.git)](https://github.com/samirsabir2002/CourseWork-3.git) this for github repo for PWA Vue.js SFC App
+# https://github.com/samirsabir2002/CourseWork-3.git this for github repo for PWA Vue.js SFC App
 
 # PWA Vue.js SFC App GitHub Pages : https://samirsabir2002.github.io/CourseWork-3
 
